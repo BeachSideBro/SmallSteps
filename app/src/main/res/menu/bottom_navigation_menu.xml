@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_sponsor"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/sponsor"/>
+    <item
+        android:id="@+id/nav_tasks"
+        android:icon="@drawable/ic_event_available_black_24dp"
+        android:title="@string/tasks"/>
+    <item
+        android:id="@+id/nav_pieces"
+        android:icon="@drawable/ic_extension_black_24dp"
+        android:title="@string/pieces"/>
+    <item
+        android:id="@+id/nav_meetings"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:title="@string/meetings"/>
+
+    <item
+        android:id="@+id/nav_achievements"
+        android:icon="@drawable/ic_grade_black_24dp"
+        android:title="@string/achievements"/>
+
+
+</menu>
